@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://centrofundar.com.ar/sitemap.xml
